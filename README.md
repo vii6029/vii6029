@@ -9,6 +9,6 @@ contribuindo com a qualidade de produtos digitais.
   
 - 📫 Como me contatar: hvmo.vinicius@gmail.com , https://www.linkedin.com/in/vinicius-oliv25/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vii6029&show_icons=true&theme=merko&hide=contribs,prs,issues,stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vii6029&show_icons=true&theme=merko&hide=contribs,prs,issues)
 
 
